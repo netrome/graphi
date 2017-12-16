@@ -1,3 +1,5 @@
+pub mod graphi;
+
 #[cfg(test)]
 mod tests {
     #[test]
